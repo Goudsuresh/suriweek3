@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suriweek2/static/css/main.f96f07a4.css",
+    "main.js": "/suriweek2/static/js/main.ee34b809.js",
+    "static/js/592.99b8e6eb.chunk.js": "/suriweek2/static/js/592.99b8e6eb.chunk.js",
+    "index.html": "/suriweek2/index.html",
+    "main.f96f07a4.css.map": "/suriweek2/static/css/main.f96f07a4.css.map",
+    "main.ee34b809.js.map": "/suriweek2/static/js/main.ee34b809.js.map",
+    "592.99b8e6eb.chunk.js.map": "/suriweek2/static/js/592.99b8e6eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.ee34b809.js"
+  ]
+}
